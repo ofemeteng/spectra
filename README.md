@@ -75,12 +75,11 @@ Spectra supports a 4-token diversified portfolio:
 
 ### 1. Clone the Repository
 
-```
-git clone https://github.com/ofemeteng/spectra.git
-cd spectra```
+`git clone https://github.com/ofemeteng/spectra.git
+cd spectra`
 
 ### 2. Install dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 fastai
 pandas
@@ -89,11 +88,11 @@ requests
 python-dotenv
 
 ### Set Recall API Key
-RECALL_API_KEY=your_recall_api_key
+`RECALL_API_KEY=your_recall_api_key`
 
 
 ### Run AI Trading Agent
-python ai_trading_agent.py
+`python ai_trading_agent.py`
 
 ## Contact 
 
