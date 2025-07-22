@@ -87,11 +87,11 @@ scikit-learn
 requests
 python-dotenv
 
-### Set Recall API Key
+### 3. Set Recall API Key
 `RECALL_API_KEY=your_recall_api_key`
 
 
-### Run AI Trading Agent
+### 4. Run AI Trading Agent
 `python ai_trading_agent.py`
 
 ## Contact 
